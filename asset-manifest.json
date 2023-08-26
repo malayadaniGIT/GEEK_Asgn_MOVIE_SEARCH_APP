@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/GEEK_Asgn_MOVIE_SEARCH_APP/static/css/main.b6596930.css",
+    "main.js": "/GEEK_Asgn_MOVIE_SEARCH_APP/static/js/main.3778658c.js",
+    "static/js/787.907277b5.chunk.js": "/GEEK_Asgn_MOVIE_SEARCH_APP/static/js/787.907277b5.chunk.js",
+    "index.html": "/GEEK_Asgn_MOVIE_SEARCH_APP/index.html",
+    "main.b6596930.css.map": "/GEEK_Asgn_MOVIE_SEARCH_APP/static/css/main.b6596930.css.map",
+    "main.3778658c.js.map": "/GEEK_Asgn_MOVIE_SEARCH_APP/static/js/main.3778658c.js.map",
+    "787.907277b5.chunk.js.map": "/GEEK_Asgn_MOVIE_SEARCH_APP/static/js/787.907277b5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b6596930.css",
+    "static/js/main.3778658c.js"
+  ]
+}
